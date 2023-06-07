@@ -14,7 +14,6 @@ I'm a Web Developer and IT Analyst
 
 ## Techlonogies
 
-            <i class="devicon-html5-plain colored"></i>
           
           
           
