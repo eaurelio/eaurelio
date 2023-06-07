@@ -13,6 +13,8 @@ I'm a Web Developer and IT Analyst
 - ⚡ Fun fact: I Love to play piano and violin
 
 ## Techlonogies
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
+            <i class="devicon-html5-plain colored"></i>
+          
           
           
