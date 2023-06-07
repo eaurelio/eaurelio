@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, It's Edson talking to you 👋
 
 <!--
 **eaurelio/eaurelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+I'm a Web Developer and IT Analyst
+
+- 🌱 I’m currently learning Python
+- 💬 Ask me about Javascript, Node.JS and React.JS
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I Love to play piano and violin
+
+## Techlonogies
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+          
+          
