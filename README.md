@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 I'm a Web Developer and IT Analyst
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning React Native
 - 💬 Ask me about Javascript, Node.JS and React.JS
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love to play piano and violin
